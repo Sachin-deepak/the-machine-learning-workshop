@@ -29,12 +29,12 @@ This repository contains the following:
 ### 🔧 How to Use:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/The-Machine-Learning-Workshop.git
-   cd The-Machine-Learning-Workshop
+   git clone https://github.com/YourUsername/the-machine-learning-workshop.git
+   cd the-machine-learning-workshop
    ```
 2. Install required dependencies:  
    ```bash
-   pip install -r requirements.txt  # if dependencies are listed
+   pip install -r requirements.txt
    ```
 3. Open the notebook:  
    ```bash
@@ -50,8 +50,7 @@ Special thanks to **Top Engineers India** and **Mechanica 2024, IIT Madras**, fo
 
 ### ⚡ Let's Connect!
 If you found this helpful or want to collaborate, feel free to connect:
-- **GitHub**: [Your GitHub Profile](https://github.com/YourUsername)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/YourUsername)  
-- **YouTube**: [Compiler Crew](https://www.youtube.com/@compilercrew)  
+- **LinkedIn**: [Sachin Deepak](https://www.linkedin.com/in/sachindeepak)  
+- **YouTube**: [Compiler Crew](https://www.youtube.com/@thecompilercrew) 
 
 Happy Coding! 🚀
